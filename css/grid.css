@@ -1,0 +1,46 @@
+body{
+    background: #edeff2;
+    color: #fff;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+header{
+    background: #232532;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+main article{
+    color: black;
+    background: #fff;
+    padding: 20px;
+}
+main article p{
+    margin-bottom: 20px;
+}
+
+main aside{
+    background: #2a7230;
+    color: #fff;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.widgets .widget{
+    background: #4f5ef5;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+footer{
+    background: #233532;
+    padding: 20px;
+    margin-top: 20px;
+}
